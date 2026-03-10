@@ -1,13 +1,3 @@
-# Portafolio Web
+## 🌐 Ver página
 
-Este es mi portafolio personal desarrollado con HTML, CSS y Bootstrap.
-
-## Tecnologías utilizadas
-
-- HTML
-- CSS
-- Bootstrap
-
-## Autor
-
-Cristian Garcia
+[Ir al portafolio](https://xCrisda.github.io/Portafolio)

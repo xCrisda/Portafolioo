@@ -1,5 +1,3 @@
-Portafolio Web
-Este es mi portafolio personal...
+## Ver página
 
-
-https://xCrisda.github.io/Portafolio
+[Ir al portafolio](https://xCrisda.github.io/Portafolio)

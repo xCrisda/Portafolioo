@@ -1,3 +1,3 @@
 ## Ver página
 
-[Ir al portafolio](https://xCrisda.github.io/Portafoliodos)
+[Ir al portafolio](https://xcrisda.github.io/Portafolioo/)
